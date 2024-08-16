@@ -2,7 +2,15 @@
 
 ## Binary Classification
 
-Sentiment Analysis using [IMDB dataset](https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz) to classify movie reviews as positive (1) or negative (0), based on the text of the review.
+Sentiment Analysis to classify movie reviews as positive (1) or negative (0), based on the text of the review.
 
+### Dataset
+[IMDB dataset](https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz) 
+
+
+### Text Sequences to Vectorization
+[Keras TextVectorization Layer](https://keras.io/api/layers/preprocessing_layers/text/text_vectorization/)
+
+### Neural Network Architectures used
 1. Simple Binary Neural Network Classifier
 2. Bidirectional LSTM Deep Neural Network Classifier
