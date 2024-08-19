@@ -12,5 +12,5 @@ Sentiment Analysis to classify movie reviews as positive (1) or negative (0), ba
 [Keras TextVectorization Layer](https://keras.io/api/layers/preprocessing_layers/text/text_vectorization/)
 
 ### Neural Network Architectures used
-1. Simple Binary Neural Network Classifier
-2. Bidirectional LSTM Deep Neural Network Classifier
+1. [Simple Binary Neural Network Classifier](https://github.com/RutvikB/Sentiment-Analysis/blob/main/binary-classification/simple_model.ipynb)
+2. [Bidirectional LSTM Deep Neural Network Classifier](https://github.com/RutvikB/Sentiment-Analysis/blob/main/binary-classification/deep_model.ipynb)
